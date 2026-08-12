@@ -44,6 +44,19 @@ Install dependencies
   npm install
 ```
 
+Dependencies:
+
+``` 
+axios
+jwt-decode
+react
+react-dom
+react-router-dom
+react-icons
+react-scripts
+web-vitals
+```
+
 Start the server
 
 ```bash
